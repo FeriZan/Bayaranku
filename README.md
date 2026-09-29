@@ -1,0 +1,2 @@
+# Bayaranku
+Rekapitulasi Gaji Karyawan
